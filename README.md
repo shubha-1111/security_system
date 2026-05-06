@@ -1,0 +1,1 @@
+A hierarchical AI agent system built with Google ADK and Gemini 2.0 Flash. Features a root router agent that delegates to two specialist sub-agents — IP Reputation Checker (VirusTotal API) and Static Code Analyzer. Includes a prompt guardrail system that blocks jailbreaks, prompt injections, and obfuscated attack inputs.
