@@ -18,7 +18,6 @@ ip_agent = Agent(
     ),
     # tools will be added in Task 2
     tools=[check_ip_reputation],
-    tools=[ip_tool],
 )
 
 # ─── Sub-Agent B: Static Code Analyzer ────────────────────────────────────────
